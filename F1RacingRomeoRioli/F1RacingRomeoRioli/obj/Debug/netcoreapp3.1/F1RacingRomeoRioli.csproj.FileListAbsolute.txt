@@ -1,0 +1,13 @@
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\bin\Debug\netcoreapp3.1\F1RacingRomeoRioli.exe
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\bin\Debug\netcoreapp3.1\F1RacingRomeoRioli.deps.json
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\bin\Debug\netcoreapp3.1\F1RacingRomeoRioli.runtimeconfig.json
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\bin\Debug\netcoreapp3.1\F1RacingRomeoRioli.runtimeconfig.dev.json
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\bin\Debug\netcoreapp3.1\F1RacingRomeoRioli.dll
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\bin\Debug\netcoreapp3.1\F1RacingRomeoRioli.pdb
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\obj\Debug\netcoreapp3.1\F1RacingRomeoRioli.csprojAssemblyReference.cache
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\obj\Debug\netcoreapp3.1\F1RacingRomeoRioli.AssemblyInfoInputs.cache
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\obj\Debug\netcoreapp3.1\F1RacingRomeoRioli.AssemblyInfo.cs
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\obj\Debug\netcoreapp3.1\F1RacingRomeoRioli.csproj.CoreCompileInputs.cache
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\obj\Debug\netcoreapp3.1\F1RacingRomeoRioli.dll
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\obj\Debug\netcoreapp3.1\F1RacingRomeoRioli.pdb
+C:\Users\180150\Downloads\F1RacingRomeoRioli\F1RacingRomeoRioli\obj\Debug\netcoreapp3.1\F1RacingRomeoRioli.genruntimeconfig.cache

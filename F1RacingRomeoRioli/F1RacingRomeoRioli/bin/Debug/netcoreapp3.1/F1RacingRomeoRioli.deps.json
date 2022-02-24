@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "F1RacingRomeoRioli/1.0.0": {
+        "runtime": {
+          "F1RacingRomeoRioli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "F1RacingRomeoRioli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

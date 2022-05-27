@@ -5,3 +5,10 @@ C:\Users\rioli\OneDrive\F1-Racing\F1-Racing\obj\Debug\F1-Racing.csproj.CoreCompi
 C:\Users\rioli\OneDrive\F1-Racing\F1-Racing\obj\Debug\F1-Racing.exe
 C:\Users\rioli\OneDrive\F1-Racing\F1-Racing\obj\Debug\F1-Racing.pdb
 C:\Users\rioli\OneDrive\F1-Racing\F1-Racing\obj\Debug\F1-Racing.csprojAssemblyReference.cache
+C:\Users\180150\Desktop\F1_racing-main\F1-Racing\bin\Debug\F1-Racing.exe.config
+C:\Users\180150\Desktop\F1_racing-main\F1-Racing\bin\Debug\F1-Racing.exe
+C:\Users\180150\Desktop\F1_racing-main\F1-Racing\bin\Debug\F1-Racing.pdb
+C:\Users\180150\Desktop\F1_racing-main\F1-Racing\obj\Debug\F1-Racing.csprojAssemblyReference.cache
+C:\Users\180150\Desktop\F1_racing-main\F1-Racing\obj\Debug\F1-Racing.csproj.CoreCompileInputs.cache
+C:\Users\180150\Desktop\F1_racing-main\F1-Racing\obj\Debug\F1-Racing.exe
+C:\Users\180150\Desktop\F1_racing-main\F1-Racing\obj\Debug\F1-Racing.pdb

@@ -7,8 +7,8 @@ namespace F1RacingRomeoRioli
     {
         static void Main(string[] args)
         {
-            int laps, position, nbrPlayer, colonne;
-            string returnDirect, place;
+            int laps, position, nbrPlayer,colonne;
+            string returnDirect, place,nbr;
             double pneu = 1, speed = 0.0;
 
             nbrPlayer = 0;
@@ -29,9 +29,14 @@ namespace F1RacingRomeoRioli
             Console.WriteLine("Appuyer sur <enter> pour continuer ");
             Console.ReadLine();
 
-            Console.WriteLine("Choisisez le numero de votre formule 1, choix entre 1 et 10 ");
-            nbrPlayer = Convert.ToInt32((Console.ReadLine()));
+            do
+            {
+                Console.WriteLine("Choisisez le numero de votre formule 1, choix entre 1 et 10 ");
+                nbr = Console.ReadLine();
 
+
+            } while (!int.TryParse(nbr, out nbrPlayer));
+          
             Remplirmatrice(ref nbrPlayer, ref matrice, ref tabNum);
 
             //Calcul de la position de départ
